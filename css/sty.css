@@ -1,0 +1,14 @@
+    body{
+	font-size:14px;
+	font-family:"微软雅黑";
+	background-color:#333;
+}
+#main{
+width:700px;
+height:50px;
+margin:150px auto;
+background-color:gray;
+color:#fff;
+padding:30px;
+border-radius: 10px;
+}
